@@ -8,6 +8,6 @@
 
 [dark-nights back end repository](https://github.com/The-Dark-Nights/back-end)
 
-### Font-end Repository
+### Front-end Repository
 
 [dark-nights front end repository](https://github.com/The-Dark-Nights/front-end)
